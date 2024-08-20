@@ -3,6 +3,5 @@
 # A multipurpose student workbench.
 
 To install:
-  Linux/Mac:\n
-   Follow yoy instructor
+  Linux/Mac: Follow you instructor
   No windows installation
