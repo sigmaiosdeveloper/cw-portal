@@ -7,4 +7,5 @@ To install:
              `cd cw-portal`
              `chmod +x cw-portal`
              `./cw-portal version`
+             `./cw-portal -h`
   No windows installation
